@@ -24,8 +24,8 @@ hs_err_pid*
 
 # STS and Maven
 .sttings/
-.bin/
-.target/
+bin/
+target/
 
 .classpath
 .factorypath
